@@ -3,9 +3,13 @@ comienzo nuevo
 anita tiene 41 años ynacio en internet
 
 experimento1
+<<<<<<< HEAD
 
 experimento 2
 
+=======
+experimento 2
+>>>>>>> exp 2
 master 1
 
 master 2
